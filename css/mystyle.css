@@ -7,7 +7,7 @@ ul {
      overflow: visible; 은 오버클로우되는 콘텐츠를 잘라내지 않고 
      영역 범위 밖까지 콘텐츠를 출력함
      overflow: hidden은 오버클로우되는 콘텐츠를 잘라냄. */
-  background-color: #333;
+  background-color: rgb(69, 94, 177);
   position: sticky;
   top:0px;
   /* position: sticky는 미리 정의한 위치에 도달하기 전에는 
